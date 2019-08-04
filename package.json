@@ -1,7 +1,11 @@
 {
-  "version": "1.0.0",
-  "name": "default-light-syntax",
-  "description": "Default light syntax theme",
+  "version": "0.0.0",
+  "name": "material-palenight-syntax",
+  "description": "Material Palenight-inspired syntax theme for Inkdrop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nint8835/inkdrop-material-palenight-syntax"
+  },
   "theme": "syntax",
   "styleSheets": ["default.less"],
   "engines": {

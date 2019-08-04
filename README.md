@@ -1,1 +1,3 @@
-# Default light syntax theme for Inkdrop Markdown Editor
+# Inkdrop-Material-Palenight-Syntax
+
+Material Palenight-inspired syntax theme for Inkdrop.
