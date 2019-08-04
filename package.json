@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.1.0",
   "name": "material-palenight-syntax",
   "description": "Material Palenight-inspired syntax theme for Inkdrop",
   "repository": {
@@ -7,7 +7,9 @@
     "url": "https://github.com/nint8835/material-palenight-syntax"
   },
   "theme": "syntax",
-  "styleSheets": ["default.less"],
+  "styleSheets": [
+    "default.less"
+  ],
   "engines": {
     "inkdrop": "^4.x"
   }
