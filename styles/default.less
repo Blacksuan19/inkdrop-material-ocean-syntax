@@ -69,33 +69,42 @@
   /* All 'dem swatches */
 
   .CodeMirror {
-    .cm-atom,
     .cm-formatting-list.cm-variable-3 {
       color: @base0C;
     }
 
-    .cm-keyword,
+    .cm-atom, .cm-callee {
+      color: @base11;
+    }
+
+    .cm-keyword, .cm-def {
+      color: @base00;
+      font-style: italic;
+    }
     .cm-formatting-list.cm-variable-2 {
       color: @base0A;
     }
 
+    .cm-string {
+      color: @base01;
+    }
+
     .cm-url,
-    .cm-string,
     .cm-string-2,
     .cm-hr {
       color: @base09;
     }
-    .cm-number,
+    .cm-number {
+      color: @base12;
+    }
     .cm-attribute,
     .cm-plus {
       color: @base0A;
     }
-    .cm-def,
     .cm-property {
-      color: @base0C;
+      color: @base07;
     }
     .cm-variable {
-      color: @base0A;
     }
     .cm-operator,
     .cm-meta,
@@ -103,7 +112,7 @@
       color: @base0E;
     }
     .cm-comment {
-      color: @base04;
+      color: @base10;
       font-style: italic;
     }
     .cm-error,
@@ -128,10 +137,12 @@
     .cm-rangeinfo {
       color: @base0C;
     }
-    .cm-qualifier,
-    .cm-builtin,
     .cm-tag {
-      color: @base08;
+      color: @base13;
+    }
+    .cm-qualifier,
+    .cm-builtin {
+      color: @base0C;
     }
     .cm-quote {
       color: @base0F;
@@ -141,7 +152,6 @@
       color: @base04;
       opacity: 0.4;
     }
-
     .cm-em {
       color: @base00;
     }
@@ -150,6 +160,9 @@
     }
     .CodeMirror-nonmatchingbracket {
       color: @base02;
+    }
+    .CodeMirror-matchingbracket {
+      color: inherit;
     }
 
     // carriage return
