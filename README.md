@@ -1,18 +1,18 @@
-# Material-Palenight-Preview
+# Material-Ocean-Preview
 
-Material Palenight preview theme for Inkdrop
+Material Ocean preview theme for Inkdrop
 
 **NOTE:** This theme may not have all components properly styled. Notice something out of place? Submit a GitHub issue!
 
 ## Installation
 
 ```
-ipm install material-palenight-syntax
+ipm install material-ocean-syntax
 ```
 
-### Want the full Palenight package?
+### Want the full Ocean package?
 
 ```
-ipm install material-palenight-ui
-ipm install material-palenight-preview
+ipm install material-ocean-ui
+ipm install material-ocean-preview
 ```
