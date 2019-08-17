@@ -1,6 +1,6 @@
-# Material-Ocean-Preview
+# Material-Ocean-Syntax
 
-Material Ocean preview theme for Inkdrop
+Material Ocean Syntax for Inkdrop
 
 **NOTE:** This theme may not have all components properly styled. Notice something out of place? Submit a GitHub issue!
 ## Screenshot
