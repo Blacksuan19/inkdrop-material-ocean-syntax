@@ -4,7 +4,7 @@
   "description": "Material Ocean syntax theme for Inkdrop",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Blacksuan19/inkdrop-material-ocean-syntax"
+    "url": "https://github.com/material-ocean/inkdrop-material-ocean-syntax"
   },
   "theme": "syntax",
   "styleSheets": [
